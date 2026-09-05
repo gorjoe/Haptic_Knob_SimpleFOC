@@ -1,4 +1,7 @@
 # Haptic_Knob_SimpleFOC
+This repo is trying to replicate the [smartknob](https://github.com/scottbez1/smartknob) project with minimum and on hand hardware.
+
+Credit to [scottbez1](https://github.com/scottbez1) inspire this repo
 
 ## Compontents:
 2804 BLDC motor
