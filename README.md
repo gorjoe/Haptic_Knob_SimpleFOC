@@ -3,6 +3,27 @@ This repo is trying to replicate the [smartknob](https://github.com/scottbez1/sm
 
 Credit to [scottbez1](https://github.com/scottbez1) inspire this repo
 
+---
+
+## Directory structure:
+```
+gorjoe-haptic_knob_simplefoc/
+├── README.md
+├── angle_control/
+│   └── angle_control.ino
+├── haptic/
+│   └── haptic.ino
+├── Haptic_Feedback_Mode/
+│   ├── DisplayUI.h
+│   └── Haptic_Feedback_Mode.ino
+├── open_loop_position_example/
+│   └── open_loop_position_example.ino
+└── voltage_control/
+    └── voltage_control.ino
+```
+
+---
+
 ## Compontents:
 2804 BLDC motor
 
